@@ -11,3 +11,18 @@ hit, through a chart topping radio resurgence in 1974 (precipitated by a
 prominent use in the hit Paul Newman / Robert Redford movie The Sting),
 to its ubiquitous presence on the loudspeakers of ice cream trucks the
 world over, this piece is synonymous with joy and fun.
+
+http://www.gutenberg.org/ebooks/10305
+
+Composer:	Berlin, Irving, 1888-1989
+Performer:	Murray, Billy, 1877-1954
+Title:		Alexander's Ragtime Band
+Note:		Recorded c. November 1911.
+Language:	English
+LoC Class:	M: Music
+Subject:	Popular music -- 1911-1920
+Subject:	Songs with instrumental ensemble
+Category:	Sound
+EBook-No.:	10305
+Release Date:	Nov 1, 2003
+Copyright:	Public domain in the USA.
